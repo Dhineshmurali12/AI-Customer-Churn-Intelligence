@@ -1,0 +1,27 @@
+{
+    "customer_id": 2461,
+    "churn_probability": 0.9587,
+    "risk_category": "High Risk",
+    "top_churn_drivers": [
+        {
+            "feature": "cat__usage_level_Low",
+            "shap_value": 1.2683
+        },
+        {
+            "feature": "num__support_tickets",
+            "shap_value": 0.9662
+        },
+        {
+            "feature": "num__payment_failures",
+            "shap_value": 0.5876
+        },
+        {
+            "feature": "cat__login_recency_category_Inactive",
+            "shap_value": 0.3244
+        },
+        {
+            "feature": "num__last_login_days_ago",
+            "shap_value": 0.182
+        }
+    ]
+}

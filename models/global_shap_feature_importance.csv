@@ -1,0 +1,18 @@
+Feature,Mean_Absolute_SHAP
+num__support_tickets,0.5303780415752902
+cat__usage_level_Low,0.51505178826113
+num__payment_failures,0.3484323519835116
+cat__login_recency_category_Inactive,0.2858072179066318
+cat__support_risk_Low,0.2851057537841705
+num__last_login_days_ago,0.16965597560452353
+cat__login_recency_category_At Risk,0.16910145238460836
+num__avg_weekly_usage_hours,0.14904413320447688
+cat__payment_risk_Low,0.12562286622723284
+cat__support_risk_Medium,0.09482951010189594
+cat__usage_level_Medium,0.08794548804706936
+cat__payment_risk_Medium,0.08038205471705008
+cat__plan_type_Premium,0.07281396805008708
+num__monthly_fee,0.07273479729034435
+num__signup_year,0.06112857503231862
+cat__plan_type_Standard,0.02059562742471704
+num__tenure_months,0.0035813660186654675
