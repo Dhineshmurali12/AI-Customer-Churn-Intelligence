@@ -1,0 +1,561 @@
+plan_type,monthly_fee,avg_weekly_usage_hours,support_tickets,payment_failures,tenure_months,last_login_days_ago,login_recency_category,support_risk,payment_risk,usage_level,signup_year,actual_churn,churn_probability,predicted_churn,risk_category
+Basic,199,21.0,6,3,32,3,Active,High,High,High,2023,0,0.4626409375574878,0,Medium Risk
+Basic,199,24.9,7,3,31,11,Active,High,High,High,2024,1,0.5965935507637393,1,Medium Risk
+Standard,399,1.7,4,1,1,19,At Risk,Medium,Medium,Low,2024,0,0.7045262071354773,1,High Risk
+Basic,199,16.4,7,3,32,26,At Risk,High,High,High,2024,1,0.6809000332001202,1,Medium Risk
+Basic,199,19.9,2,2,35,6,Active,Low,Medium,High,2024,0,0.31760503450749095,0,Low Risk
+Standard,399,23.3,3,2,27,53,Inactive,Medium,Medium,High,2024,1,0.5794561991475624,1,Medium Risk
+Basic,199,23.3,0,1,1,34,Inactive,Low,Medium,High,2024,1,0.38206678625083523,0,Low Risk
+Premium,699,7.0,5,3,33,38,Inactive,Medium,High,Medium,2023,1,0.6686406583080583,1,Medium Risk
+Standard,399,16.9,3,0,9,18,At Risk,Medium,Low,High,2023,0,0.2243787632634596,0,Low Risk
+Premium,699,10.1,5,3,9,1,Active,Medium,High,Medium,2024,1,0.48017260181303567,0,Medium Risk
+Premium,699,10.1,1,2,21,44,Inactive,Low,Medium,Medium,2023,1,0.4668585350201442,0,Medium Risk
+Basic,199,18.8,0,0,32,25,At Risk,Low,Low,High,2024,0,0.201925211174976,0,Low Risk
+Basic,199,4.2,3,5,22,59,Inactive,Medium,High,Low,2024,1,0.9142686819762812,1,High Risk
+Basic,199,6.9,3,1,12,22,At Risk,Medium,Medium,Medium,2024,0,0.34024434842442186,0,Low Risk
+Premium,699,7.1,1,5,35,43,Inactive,Low,High,Medium,2023,1,0.6559704126851486,1,Medium Risk
+Standard,399,24.6,6,3,9,9,Active,High,High,High,2024,0,0.5416426875871508,1,Medium Risk
+Premium,699,1.8,6,1,32,13,Active,High,Medium,Low,2024,0,0.6507900560758483,1,Medium Risk
+Basic,199,19.0,8,1,21,1,Active,High,Medium,High,2024,0,0.435277278909057,0,Medium Risk
+Standard,399,18.6,3,4,16,5,Active,Medium,High,High,2024,1,0.43481676188922047,0,Medium Risk
+Premium,699,5.5,0,3,9,24,At Risk,Low,High,Medium,2024,0,0.4160815925406771,0,Medium Risk
+Premium,699,3.6,8,5,23,37,Inactive,High,High,Low,2023,1,0.950732694109002,1,High Risk
+Basic,199,10.1,2,2,2,21,At Risk,Low,Medium,Medium,2024,1,0.44263049870553023,0,Medium Risk
+Premium,699,11.9,6,4,10,60,Inactive,High,High,Medium,2024,0,0.8058104596167075,1,High Risk
+Standard,399,22.3,5,4,11,51,Inactive,Medium,High,High,2024,0,0.8002092470040675,1,High Risk
+Premium,699,19.2,4,4,35,33,Inactive,Medium,High,High,2024,0,0.7055265041498224,1,High Risk
+Premium,699,2.6,8,4,29,20,At Risk,High,High,Low,2023,1,0.9123712924686148,1,High Risk
+Standard,399,12.2,1,3,16,57,Inactive,Low,High,Medium,2023,0,0.6143325465957634,1,Medium Risk
+Basic,199,16.6,5,4,21,42,Inactive,Medium,High,High,2024,1,0.752945290332926,1,High Risk
+Premium,699,17.0,4,1,32,38,Inactive,Medium,Medium,High,2024,0,0.5023561067232087,1,Medium Risk
+Premium,699,18.7,6,2,6,56,Inactive,High,Medium,High,2023,1,0.6456276094842696,1,Medium Risk
+Standard,399,13.9,4,4,27,9,Active,Medium,High,Medium,2024,1,0.5211739848033762,1,Medium Risk
+Basic,199,16.6,5,4,25,56,Inactive,Medium,High,High,2024,1,0.7803353958173773,1,High Risk
+Standard,399,19.6,4,0,11,24,At Risk,Medium,Low,High,2023,1,0.29438366089517615,0,Low Risk
+Basic,199,8.3,3,5,27,8,Active,Medium,High,Medium,2024,0,0.4754375321262148,0,Medium Risk
+Basic,199,24.5,3,5,10,9,Active,Medium,High,High,2023,0,0.5009639018780125,1,Medium Risk
+Standard,399,5.1,8,0,25,52,Inactive,High,Low,Medium,2024,0,0.5648706020769664,1,Medium Risk
+Premium,699,17.6,7,1,8,57,Inactive,High,Medium,High,2023,1,0.6429334601178837,1,Medium Risk
+Premium,699,12.3,7,0,9,56,Inactive,High,Low,Medium,2023,1,0.5332809929272053,1,Medium Risk
+Standard,399,7.1,0,0,16,53,Inactive,Low,Low,Medium,2024,0,0.2783414773152294,0,Low Risk
+Standard,399,9.6,1,1,10,10,Active,Low,Medium,Medium,2024,0,0.2299377031592827,0,Low Risk
+Premium,699,5.9,5,0,36,14,Active,Medium,Low,Medium,2023,0,0.21278507608073732,0,Low Risk
+Basic,199,22.4,4,1,4,4,Active,Medium,Medium,High,2023,0,0.2763170996693653,0,Low Risk
+Standard,399,9.2,0,2,20,56,Inactive,Low,Medium,Medium,2024,0,0.4653129690847175,0,Medium Risk
+Basic,199,4.1,3,3,33,17,At Risk,Medium,High,Low,2024,1,0.7795186921797365,1,High Risk
+Basic,199,14.5,0,5,18,38,Inactive,Low,High,Medium,2024,1,0.6518529710341116,1,Medium Risk
+Standard,399,22.5,6,4,21,25,At Risk,High,High,High,2023,1,0.6907285284448794,1,Medium Risk
+Basic,199,6.7,1,0,31,15,At Risk,Low,Low,Medium,2024,0,0.2047420313743611,0,Low Risk
+Basic,199,7.5,6,2,24,21,At Risk,High,Medium,Medium,2024,1,0.508549993215774,1,Medium Risk
+Basic,199,13.0,2,1,34,55,Inactive,Low,Medium,Medium,2023,0,0.5055925852696318,1,Medium Risk
+Standard,399,4.8,8,0,11,51,Inactive,High,Low,Low,2024,1,0.8412522060287114,1,High Risk
+Premium,699,2.4,3,0,6,10,Active,Medium,Low,Low,2023,0,0.38312168158260185,0,Low Risk
+Premium,699,21.0,8,4,19,10,Active,High,High,High,2023,0,0.6614598737734823,1,Medium Risk
+Standard,399,8.9,1,1,25,0,Active,Low,Medium,Medium,2024,0,0.2071692725707131,0,Low Risk
+Standard,399,5.0,1,1,21,59,Inactive,Low,Medium,Low,2024,0,0.7713729508013099,1,High Risk
+Premium,699,10.9,8,1,13,41,Inactive,High,Medium,Medium,2023,1,0.6610068425551348,1,Medium Risk
+Premium,699,5.2,8,5,21,53,Inactive,High,High,Medium,2023,0,0.8528322777850189,1,High Risk
+Standard,399,18.1,6,3,13,25,At Risk,High,High,High,2024,1,0.6438164462317987,1,Medium Risk
+Basic,199,6.3,1,5,22,30,At Risk,Low,High,Medium,2024,0,0.5990204558565663,1,Medium Risk
+Basic,199,17.3,7,0,14,38,Inactive,High,Low,High,2023,0,0.457917259526253,0,Medium Risk
+Basic,199,9.7,7,5,25,12,Active,High,High,Medium,2023,0,0.6365471906481602,1,Medium Risk
+Standard,399,10.2,5,4,21,53,Inactive,Medium,High,Medium,2024,0,0.7855461727033004,1,High Risk
+Premium,699,17.0,5,1,11,41,Inactive,Medium,Medium,High,2023,1,0.5407648855457476,1,Medium Risk
+Standard,399,4.5,2,1,10,49,Inactive,Low,Medium,Low,2024,0,0.7912993244655029,1,High Risk
+Standard,399,0.6,4,1,4,48,Inactive,Medium,Medium,Low,2024,0,0.7914635023719416,1,High Risk
+Standard,399,12.7,6,0,29,10,Active,High,Low,Medium,2024,1,0.2553649777013995,0,Low Risk
+Standard,399,0.7,0,4,18,47,Inactive,Low,High,Low,2023,1,0.8160992216563006,1,High Risk
+Standard,399,14.3,0,1,35,59,Inactive,Low,Medium,Medium,2023,0,0.4155913676332919,0,Medium Risk
+Standard,399,14.7,5,3,27,37,Inactive,Medium,High,Medium,2024,1,0.7306081781896651,1,High Risk
+Premium,699,15.1,7,3,32,24,At Risk,High,High,High,2023,1,0.6498068703580943,1,Medium Risk
+Standard,399,16.3,2,5,18,1,Active,Low,High,High,2024,0,0.4995593272848192,0,Medium Risk
+Standard,399,5.9,2,3,15,9,Active,Low,High,Medium,2024,0,0.3919010377761293,0,Low Risk
+Premium,699,0.8,8,3,8,49,Inactive,High,High,Low,2024,1,0.9365641503127777,1,High Risk
+Standard,399,16.6,1,5,26,24,At Risk,Low,High,High,2024,1,0.6056125236785519,1,Medium Risk
+Standard,399,7.3,3,5,3,32,Inactive,Medium,High,Medium,2024,1,0.6820131422005759,1,Medium Risk
+Basic,199,23.0,7,0,4,19,At Risk,High,Low,High,2024,0,0.4289323070609734,0,Medium Risk
+Standard,399,13.3,3,4,23,28,At Risk,Medium,High,Medium,2024,0,0.6116012390421022,1,Medium Risk
+Standard,399,19.4,4,1,6,45,Inactive,Medium,Medium,High,2023,1,0.5069679809465572,1,Medium Risk
+Premium,699,24.4,1,2,23,26,At Risk,Low,Medium,High,2024,0,0.4449171708732841,0,Medium Risk
+Premium,699,14.0,2,1,18,2,Active,Low,Medium,Medium,2023,0,0.2542497121513009,0,Low Risk
+Basic,199,3.2,8,3,32,13,Active,High,High,Low,2023,1,0.8326840501794741,1,High Risk
+Standard,399,16.1,6,0,11,9,Active,High,Low,High,2023,0,0.2141359057705923,0,Low Risk
+Standard,399,12.7,7,1,15,38,Inactive,High,Medium,Medium,2024,1,0.6364580768214056,1,Medium Risk
+Basic,199,17.6,5,2,11,9,Active,Medium,Medium,High,2023,1,0.3632886960711396,0,Low Risk
+Basic,199,8.6,7,3,34,29,At Risk,High,High,Medium,2023,1,0.6602899471527176,1,Medium Risk
+Standard,399,11.9,2,0,11,28,At Risk,Low,Low,Medium,2024,0,0.3073390427141443,0,Low Risk
+Basic,199,21.7,2,5,18,55,Inactive,Low,High,High,2023,1,0.7597981232532033,1,High Risk
+Basic,199,9.3,4,2,11,31,Inactive,Medium,Medium,Medium,2023,1,0.5027476918457667,1,Medium Risk
+Standard,399,13.7,4,0,17,58,Inactive,Medium,Low,Medium,2024,0,0.4592767666047529,0,Medium Risk
+Premium,699,0.8,4,0,25,41,Inactive,Medium,Low,Low,2024,1,0.6807265099404886,1,Medium Risk
+Premium,699,23.7,2,4,6,34,Inactive,Low,High,High,2023,1,0.6853592850925077,1,Medium Risk
+Standard,399,13.3,0,3,17,60,Inactive,Low,High,Medium,2023,0,0.5719773511473601,1,Medium Risk
+Standard,399,14.1,2,1,12,11,Active,Low,Medium,Medium,2023,0,0.27356105110985657,0,Low Risk
+Premium,699,12.5,7,0,7,57,Inactive,High,Low,Medium,2024,1,0.5677031631632904,1,Medium Risk
+Standard,399,23.4,6,0,5,0,Active,High,Low,High,2023,0,0.22788361448829558,0,Low Risk
+Premium,699,19.0,3,4,24,32,Inactive,Medium,High,High,2023,1,0.6235333846282327,1,Medium Risk
+Basic,199,9.8,1,2,9,59,Inactive,Low,Medium,Medium,2024,1,0.5291143839798249,1,Medium Risk
+Premium,699,6.0,2,0,29,7,Active,Low,Low,Medium,2023,0,0.15189066034031035,0,Low Risk
+Standard,399,23.5,4,3,36,7,Active,Medium,High,High,2024,1,0.46892988405718145,0,Medium Risk
+Basic,199,19.2,0,4,15,34,Inactive,Low,High,High,2024,1,0.5699734923321178,1,Medium Risk
+Premium,699,7.2,7,1,29,20,At Risk,High,Medium,Medium,2023,1,0.48312777290272574,0,Medium Risk
+Basic,199,23.2,4,4,22,5,Active,Medium,High,High,2023,0,0.48202174086257715,0,Medium Risk
+Standard,399,4.1,5,4,17,22,At Risk,Medium,High,Low,2024,1,0.8866130535367489,1,High Risk
+Premium,699,21.9,0,4,32,4,Active,Low,High,High,2024,1,0.3695730674533263,0,Low Risk
+Premium,699,20.8,1,3,23,13,Active,Low,High,High,2023,0,0.3599631969314546,0,Low Risk
+Premium,699,0.7,1,2,36,24,At Risk,Low,Medium,Low,2024,1,0.686155333791788,1,Medium Risk
+Premium,699,24.4,4,0,9,52,Inactive,Medium,Low,High,2023,0,0.4327755475005813,0,Medium Risk
+Basic,199,8.4,2,1,6,49,Inactive,Low,Medium,Medium,2023,0,0.46391427245407785,0,Medium Risk
+Premium,699,3.8,8,0,11,57,Inactive,High,Low,Low,2023,1,0.8309016549558991,1,High Risk
+Standard,399,17.5,1,5,26,59,Inactive,Low,High,High,2023,0,0.7083277326473518,1,High Risk
+Standard,399,21.6,2,3,26,7,Active,Low,High,High,2024,0,0.4326846557665339,0,Medium Risk
+Premium,699,14.4,7,0,6,7,Active,High,Low,Medium,2023,0,0.2817708414976248,0,Low Risk
+Basic,199,20.0,6,5,35,22,At Risk,High,High,High,2024,1,0.7360663892804974,1,High Risk
+Standard,399,5.4,6,1,19,41,Inactive,High,Medium,Medium,2024,1,0.5447529739819471,1,Medium Risk
+Standard,399,16.4,6,5,4,15,At Risk,High,High,High,2023,1,0.686133823367859,1,Medium Risk
+Basic,199,15.6,0,1,27,13,Active,Low,Medium,High,2024,1,0.18404140323573887,0,Low Risk
+Standard,399,8.5,7,0,6,20,At Risk,High,Low,Medium,2023,0,0.3699146582682889,0,Low Risk
+Standard,399,18.7,6,4,9,3,Active,High,High,High,2023,1,0.5163685570570088,1,Medium Risk
+Premium,699,9.7,1,5,27,50,Inactive,Low,High,Medium,2023,0,0.6876104704100503,1,Medium Risk
+Premium,699,4.4,0,0,4,52,Inactive,Low,Low,Low,2024,1,0.5986327332361588,1,Medium Risk
+Basic,199,21.9,7,3,20,33,Inactive,High,High,High,2023,1,0.7355423717493028,1,High Risk
+Premium,699,20.0,8,2,15,12,Active,High,Medium,High,2024,1,0.5386039689917881,1,Medium Risk
+Standard,399,13.8,5,5,18,37,Inactive,Medium,High,Medium,2024,1,0.808501069118637,1,High Risk
+Premium,699,8.2,5,5,36,10,Active,Medium,High,Medium,2024,1,0.6045440835407332,1,Medium Risk
+Premium,699,3.7,0,2,16,51,Inactive,Low,Medium,Low,2023,1,0.7262671568996617,1,High Risk
+Standard,399,16.0,2,0,4,13,Active,Low,Low,High,2024,0,0.18701753404990942,0,Low Risk
+Premium,699,12.9,7,0,12,39,Inactive,High,Low,Medium,2024,1,0.5202894525079845,1,Medium Risk
+Premium,699,17.4,6,2,2,56,Inactive,High,Medium,High,2023,1,0.6387421913703333,1,Medium Risk
+Premium,699,3.7,1,2,26,35,Inactive,Low,Medium,Low,2023,1,0.7369232842312385,1,High Risk
+Premium,699,12.2,7,4,35,58,Inactive,High,High,Medium,2023,0,0.8192134847685916,1,High Risk
+Premium,699,0.7,1,4,32,56,Inactive,Low,High,Low,2023,1,0.8610600834401402,1,High Risk
+Basic,199,20.1,5,5,10,14,Active,Medium,High,High,2023,0,0.6041109556710494,1,Medium Risk
+Standard,399,24.0,2,0,21,20,At Risk,Low,Low,High,2023,0,0.2849772019636179,0,Low Risk
+Standard,399,18.2,6,2,20,52,Inactive,High,Medium,High,2023,1,0.6302310386030027,1,Medium Risk
+Premium,699,9.5,5,0,6,53,Inactive,Medium,Low,Medium,2023,1,0.4505020715037379,0,Medium Risk
+Basic,199,12.8,2,5,31,56,Inactive,Low,High,Medium,2024,0,0.7773188857223751,1,High Risk
+Premium,699,3.6,3,2,7,35,Inactive,Medium,Medium,Low,2023,1,0.7575564393579879,1,High Risk
+Basic,199,7.4,1,0,12,23,At Risk,Low,Low,Medium,2024,0,0.2237306109287978,0,Low Risk
+Premium,699,10.1,4,3,7,3,Active,Medium,High,Medium,2023,0,0.3979467517143937,0,Low Risk
+Basic,199,4.8,5,3,33,1,Active,Medium,High,Low,2024,1,0.7623884641003821,1,High Risk
+Premium,699,8.4,1,2,19,42,Inactive,Low,Medium,Medium,2024,1,0.48179624184490205,0,Medium Risk
+Premium,699,0.7,4,0,7,42,Inactive,Medium,Low,Low,2023,1,0.657078443490074,1,Medium Risk
+Premium,699,8.5,8,0,31,15,At Risk,High,Low,Medium,2024,0,0.44146366156079864,0,Medium Risk
+Standard,399,3.7,5,5,22,16,At Risk,Medium,High,Low,2024,1,0.9010596306950304,1,High Risk
+Basic,199,22.5,8,3,34,18,At Risk,High,High,High,2023,1,0.7169196500587223,1,High Risk
+Standard,399,0.6,2,3,29,4,Active,Low,High,Low,2023,1,0.6611414481721799,1,Medium Risk
+Basic,199,14.5,3,0,10,55,Inactive,Medium,Low,Medium,2023,1,0.3627567287308772,0,Low Risk
+Standard,399,11.1,0,0,7,25,At Risk,Low,Low,Medium,2023,1,0.18903857927724926,0,Low Risk
+Standard,399,1.6,3,0,13,20,At Risk,Medium,Low,Low,2024,0,0.5342088980019055,1,Medium Risk
+Basic,199,23.5,3,4,4,40,Inactive,Medium,High,High,2023,1,0.6623052660527808,1,Medium Risk
+Basic,199,19.6,7,3,2,14,Active,High,High,High,2024,0,0.5762151909624698,1,Medium Risk
+Basic,199,7.4,3,5,18,21,At Risk,Medium,High,Medium,2024,1,0.6069245789118004,1,Medium Risk
+Basic,199,13.2,3,2,4,24,At Risk,Medium,Medium,Medium,2024,1,0.4369072008652495,0,Medium Risk
+Standard,399,18.2,8,3,24,30,At Risk,High,High,High,2023,1,0.7296995406964094,1,High Risk
+Standard,399,8.1,7,0,35,5,Active,High,Low,Medium,2024,1,0.26809751607258525,0,Low Risk
+Basic,199,7.9,0,0,5,50,Inactive,Low,Low,Medium,2024,1,0.2701754756961278,0,Low Risk
+Premium,699,23.9,5,4,7,39,Inactive,Medium,High,High,2024,0,0.7858557069927726,1,High Risk
+Premium,699,19.0,3,2,14,22,At Risk,Medium,Medium,High,2024,0,0.4283433626241873,0,Medium Risk
+Basic,199,14.9,7,2,2,44,Inactive,High,Medium,Medium,2024,1,0.7075874677882441,1,High Risk
+Basic,199,1.9,1,2,27,57,Inactive,Low,Medium,Low,2023,1,0.7672512834579099,1,High Risk
+Standard,399,3.1,1,2,28,14,Active,Low,Medium,Low,2024,1,0.5795255212307929,1,Medium Risk
+Standard,399,17.5,0,0,11,20,At Risk,Low,Low,High,2023,0,0.175978718511496,0,Low Risk
+Premium,699,12.1,8,4,14,50,Inactive,High,High,Medium,2024,1,0.8564265593088937,1,High Risk
+Basic,199,20.8,8,1,4,36,Inactive,High,Medium,High,2023,0,0.653347356705554,1,Medium Risk
+Premium,699,4.4,4,0,1,12,Active,Medium,Low,Low,2024,0,0.48845873984104476,0,Medium Risk
+Premium,699,10.4,1,3,27,48,Inactive,Low,High,Medium,2023,0,0.5800390259649492,1,Medium Risk
+Basic,199,4.3,7,2,13,49,Inactive,High,Medium,Low,2024,1,0.890620127961951,1,High Risk
+Premium,699,10.0,7,1,25,31,Inactive,High,Medium,Medium,2024,0,0.6030224209681657,1,Medium Risk
+Premium,699,3.4,0,5,22,20,At Risk,Low,High,Low,2024,1,0.8086506050425082,1,High Risk
+Premium,699,9.3,2,1,16,45,Inactive,Low,Medium,Medium,2023,0,0.46642431020047537,0,Medium Risk
+Basic,199,8.6,2,2,17,49,Inactive,Low,Medium,Medium,2024,1,0.5520320138480411,1,Medium Risk
+Basic,199,23.9,7,3,14,56,Inactive,High,High,High,2024,1,0.8100861732854445,1,High Risk
+Basic,199,22.4,6,3,16,24,At Risk,High,High,High,2024,1,0.6575661788959382,1,Medium Risk
+Premium,699,1.1,7,2,12,24,At Risk,High,Medium,Low,2024,1,0.8331094015151811,1,High Risk
+Standard,399,5.0,2,4,8,24,At Risk,Low,High,Low,2023,1,0.8378334854113039,1,High Risk
+Premium,699,5.4,0,1,31,10,Active,Low,Medium,Medium,2023,0,0.15822953397866685,0,Low Risk
+Standard,399,16.5,2,3,30,44,Inactive,Low,High,High,2023,1,0.6153358577220147,1,Medium Risk
+Basic,199,21.9,5,5,24,28,At Risk,Medium,High,High,2024,1,0.7586668818319927,1,High Risk
+Premium,699,5.7,2,5,32,59,Inactive,Low,High,Medium,2024,0,0.7589800360923291,1,High Risk
+Standard,399,7.4,2,4,26,8,Active,Low,High,Medium,2024,0,0.45317400828309695,0,Medium Risk
+Basic,199,16.4,3,1,17,50,Inactive,Medium,Medium,High,2024,0,0.4655363421547193,0,Medium Risk
+Basic,199,10.2,5,5,10,54,Inactive,Medium,High,Medium,2024,0,0.8194362766792564,1,High Risk
+Basic,199,15.6,2,0,35,36,Inactive,Low,Low,High,2023,0,0.3075230515713097,0,Low Risk
+Standard,399,7.9,8,2,11,14,Active,High,Medium,Medium,2024,1,0.5165027710356418,1,Medium Risk
+Basic,199,12.1,1,5,16,40,Inactive,Low,High,Medium,2024,1,0.6957161071857982,1,Medium Risk
+Standard,399,22.5,8,5,27,23,At Risk,High,High,High,2024,0,0.8323239401457008,1,High Risk
+Standard,399,24.3,0,5,12,4,Active,Low,High,High,2023,0,0.40977519105729937,0,Medium Risk
+Premium,699,4.1,0,1,12,7,Active,Low,Medium,Low,2023,0,0.42329715596696765,0,Medium Risk
+Premium,699,17.8,5,0,5,27,At Risk,Medium,Low,High,2024,1,0.3728726145551417,0,Low Risk
+Basic,199,23.8,2,2,27,18,At Risk,Low,Medium,High,2023,1,0.4379270385662676,0,Medium Risk
+Standard,399,8.8,5,5,36,12,Active,Medium,High,Medium,2023,0,0.5826799521926498,1,Medium Risk
+Premium,699,11.0,6,4,9,8,Active,High,High,Medium,2023,1,0.53116235976226,1,Medium Risk
+Standard,399,4.2,0,5,14,47,Inactive,Low,High,Low,2023,1,0.8590033512963203,1,High Risk
+Premium,699,0.6,8,4,3,24,At Risk,High,High,Low,2024,1,0.922104968626186,1,High Risk
+Standard,399,22.1,0,5,6,14,Active,Low,High,High,2024,0,0.45441259348661794,0,Medium Risk
+Basic,199,1.1,8,4,32,23,At Risk,High,High,Low,2024,1,0.918686799060834,1,High Risk
+Basic,199,5.8,7,2,26,34,Inactive,High,Medium,Medium,2023,1,0.6036198520319088,1,Medium Risk
+Basic,199,10.8,6,0,22,5,Active,High,Low,Medium,2023,1,0.21034205293719022,0,Low Risk
+Basic,199,7.1,0,1,22,4,Active,Low,Medium,Medium,2024,1,0.1670082144602046,0,Low Risk
+Standard,399,20.0,2,3,31,9,Active,Low,High,High,2024,0,0.42811420629368524,0,Medium Risk
+Premium,699,17.9,4,1,11,11,Active,Medium,Medium,High,2024,0,0.3018716770724264,0,Low Risk
+Standard,399,21.5,1,5,16,23,At Risk,Low,High,High,2024,1,0.6319506310350532,1,Medium Risk
+Standard,399,10.3,5,4,20,4,Active,Medium,High,Medium,2023,1,0.5143726926834149,1,Medium Risk
+Premium,699,7.2,6,4,33,37,Inactive,High,High,Medium,2024,1,0.7399526259211144,1,High Risk
+Premium,699,2.1,1,2,28,56,Inactive,Low,Medium,Low,2024,0,0.7933325454022725,1,High Risk
+Basic,199,19.4,0,3,28,46,Inactive,Low,High,High,2023,1,0.5153141307974503,1,Medium Risk
+Premium,699,5.9,4,0,1,15,At Risk,Medium,Low,Medium,2023,1,0.24763145436404851,0,Low Risk
+Standard,399,19.5,7,0,34,17,At Risk,High,Low,High,2024,0,0.40772654837527933,0,Medium Risk
+Premium,699,20.3,1,2,29,7,Active,Low,Medium,High,2024,1,0.2808203831800663,0,Low Risk
+Basic,199,18.4,5,4,14,56,Inactive,Medium,High,High,2024,1,0.7884444889094201,1,High Risk
+Basic,199,19.4,4,1,33,29,At Risk,Medium,Medium,High,2023,1,0.41019423583835724,0,Medium Risk
+Basic,199,19.2,5,0,8,32,Inactive,Medium,Low,High,2024,0,0.4264793069350505,0,Medium Risk
+Standard,399,22.9,6,0,23,35,Inactive,High,Low,High,2024,0,0.4624042291575518,0,Medium Risk
+Standard,399,11.6,2,1,11,24,At Risk,Low,Medium,Medium,2023,1,0.38087699138948167,0,Low Risk
+Premium,699,14.3,8,3,2,14,Active,High,High,Medium,2023,1,0.6256656592023719,1,Medium Risk
+Basic,199,24.0,8,4,3,51,Inactive,High,High,High,2024,1,0.8661749656194688,1,High Risk
+Premium,699,19.3,8,0,4,2,Active,High,Low,High,2024,1,0.3318741854115072,0,Low Risk
+Standard,399,21.5,4,1,10,14,Active,Medium,Medium,High,2023,0,0.30051520265195164,0,Low Risk
+Premium,699,10.1,2,0,4,30,At Risk,Low,Low,Medium,2023,1,0.27908011369564734,0,Low Risk
+Premium,699,4.9,5,3,23,49,Inactive,Medium,High,Low,2024,1,0.9104066844552808,1,High Risk
+Basic,199,18.9,6,4,23,12,Active,High,High,High,2024,1,0.5634836120510719,1,Medium Risk
+Basic,199,9.3,3,0,29,37,Inactive,Medium,Low,Medium,2023,1,0.2898757596998334,0,Low Risk
+Basic,199,22.1,6,5,17,36,Inactive,High,High,High,2024,1,0.8038292014181834,1,High Risk
+Basic,199,3.7,8,5,1,45,Inactive,High,High,Low,2024,1,0.9587322053039495,1,High Risk
+Basic,199,2.6,8,0,30,26,At Risk,High,Low,Low,2023,1,0.7319065248279158,1,High Risk
+Premium,699,13.8,5,2,3,6,Active,Medium,Medium,Medium,2024,1,0.416169210191815,0,Medium Risk
+Premium,699,22.7,6,3,24,36,Inactive,High,High,High,2024,0,0.7306091904897417,1,High Risk
+Basic,199,22.4,5,5,10,41,Inactive,Medium,High,High,2023,1,0.7951516282888927,1,High Risk
+Basic,199,22.0,0,1,34,12,Active,Low,Medium,High,2023,0,0.18690395395191778,0,Low Risk
+Standard,399,3.0,4,2,9,23,At Risk,Medium,Medium,Low,2024,1,0.7635112645527803,1,High Risk
+Basic,199,8.7,1,2,12,9,Active,Low,Medium,Medium,2023,0,0.23759469684334075,0,Low Risk
+Basic,199,6.7,8,5,5,19,At Risk,High,High,Medium,2024,1,0.7921176013100061,1,High Risk
+Premium,699,6.2,1,4,5,3,Active,Low,High,Medium,2023,0,0.3505163036216832,0,Low Risk
+Standard,399,1.5,1,0,19,60,Inactive,Low,Low,Low,2023,1,0.6271047952794779,1,Medium Risk
+Standard,399,7.8,1,2,27,16,At Risk,Low,Medium,Medium,2024,0,0.3647357497148684,0,Low Risk
+Basic,199,21.2,1,4,19,49,Inactive,Low,High,High,2024,1,0.6747265668428668,1,Medium Risk
+Basic,199,3.4,6,4,4,12,Active,High,High,Low,2024,1,0.8164137070553494,1,High Risk
+Premium,699,14.6,5,1,18,42,Inactive,Medium,Medium,Medium,2023,0,0.5743128370293767,1,Medium Risk
+Standard,399,16.4,0,5,35,47,Inactive,Low,High,High,2023,0,0.619940948583453,1,Medium Risk
+Basic,199,1.8,2,1,13,8,Active,Low,Medium,Low,2024,1,0.5503051938500885,1,Medium Risk
+Basic,199,5.1,2,4,19,17,At Risk,Low,High,Medium,2024,0,0.5583223342070734,1,Medium Risk
+Premium,699,22.8,1,0,10,8,Active,Low,Low,High,2024,0,0.1690358341699643,0,Low Risk
+Basic,199,10.0,8,5,36,18,At Risk,High,High,Medium,2023,0,0.7811063772106676,1,High Risk
+Standard,399,10.7,3,2,9,19,At Risk,Medium,Medium,Medium,2024,1,0.41580025281879796,0,Medium Risk
+Premium,699,2.5,7,0,3,24,At Risk,High,Low,Low,2024,1,0.713839243782878,1,High Risk
+Standard,399,9.5,1,3,2,37,Inactive,Low,High,Medium,2024,1,0.5761232716658802,1,Medium Risk
+Standard,399,9.4,0,3,10,15,At Risk,Low,High,Medium,2023,1,0.3842570531379257,0,Low Risk
+Basic,199,18.7,3,3,3,3,Active,Medium,High,High,2023,0,0.3404435005322042,0,Low Risk
+Basic,199,2.7,7,5,8,23,At Risk,High,High,Low,2024,1,0.9218802046629972,1,High Risk
+Basic,199,3.7,1,2,16,55,Inactive,Low,Medium,Low,2023,1,0.7718334583401371,1,High Risk
+Premium,699,4.7,8,2,27,47,Inactive,High,Medium,Low,2024,1,0.9129900329406078,1,High Risk
+Standard,399,24.1,7,3,16,26,At Risk,High,High,High,2024,1,0.7275970297695826,1,High Risk
+Standard,399,13.1,2,0,4,19,At Risk,Low,Low,Medium,2024,0,0.2931225385564917,0,Low Risk
+Basic,199,1.9,8,0,16,3,Active,High,Low,Low,2024,0,0.6115115442526631,1,Medium Risk
+Premium,699,21.2,3,2,35,19,At Risk,Medium,Medium,High,2024,1,0.4312790260228202,0,Medium Risk
+Premium,699,7.7,2,5,13,4,Active,Low,High,Medium,2023,1,0.47329710557114213,0,Medium Risk
+Premium,699,19.0,6,1,9,10,Active,High,Medium,High,2023,0,0.3290646954286414,0,Low Risk
+Premium,699,24.6,0,3,18,20,At Risk,Low,High,High,2023,0,0.44230615011730795,0,Medium Risk
+Premium,699,18.1,3,2,19,1,Active,Medium,Medium,High,2023,0,0.25457264388563056,0,Low Risk
+Standard,399,12.0,5,1,29,47,Inactive,Medium,Medium,Medium,2023,0,0.5701738234587297,1,Medium Risk
+Premium,699,18.6,1,0,1,35,Inactive,Low,Low,High,2024,1,0.3072595560050843,0,Low Risk
+Premium,699,8.8,2,2,7,5,Active,Low,Medium,Medium,2023,0,0.28205972451710976,0,Low Risk
+Standard,399,25.0,7,5,32,50,Inactive,High,High,High,2023,1,0.8549361718865282,1,High Risk
+Premium,699,23.3,7,1,32,5,Active,High,Medium,High,2024,0,0.42193558610132814,0,Medium Risk
+Standard,399,17.7,0,0,10,3,Active,Low,Low,High,2023,0,0.10584871496835305,0,Low Risk
+Basic,199,3.7,3,5,3,10,Active,Medium,High,Low,2023,1,0.7537307059179769,1,High Risk
+Premium,699,9.5,4,4,11,11,Active,Medium,High,Medium,2023,1,0.47222021818341203,0,Medium Risk
+Premium,699,1.3,3,2,13,46,Inactive,Medium,Medium,Low,2023,1,0.7690285514131933,1,High Risk
+Standard,399,8.7,1,5,4,54,Inactive,Low,High,Medium,2024,0,0.7182038789932214,1,High Risk
+Premium,699,3.7,8,0,24,37,Inactive,High,Low,Low,2023,1,0.7963085716129054,1,High Risk
+Basic,199,17.4,6,0,21,17,At Risk,High,Low,High,2024,0,0.33495094718994983,0,Low Risk
+Premium,699,10.6,3,2,21,56,Inactive,Medium,Medium,Medium,2023,1,0.5290536995879033,1,Medium Risk
+Standard,399,6.3,8,0,20,1,Active,High,Low,Medium,2023,0,0.27414387225907777,0,Low Risk
+Standard,399,25.0,0,3,36,25,At Risk,Low,High,High,2024,1,0.48594910296017974,0,Medium Risk
+Basic,199,3.4,5,4,19,38,Inactive,Medium,High,Low,2023,1,0.903238772197698,1,High Risk
+Standard,399,16.2,0,0,36,7,Active,Low,Low,High,2023,0,0.1056304301298697,0,Low Risk
+Premium,699,16.6,8,2,18,21,At Risk,High,Medium,High,2023,0,0.6119296469593453,1,Medium Risk
+Basic,199,22.0,2,4,22,24,At Risk,Low,High,High,2023,1,0.6015785884109175,1,Medium Risk
+Standard,399,13.0,3,1,36,29,At Risk,Medium,Medium,Medium,2023,0,0.36884860777104733,0,Low Risk
+Basic,199,18.9,6,5,18,25,At Risk,High,High,High,2023,1,0.7142841585812439,1,High Risk
+Basic,199,7.2,1,0,29,41,Inactive,Low,Low,Medium,2024,0,0.2922449898302727,0,Low Risk
+Premium,699,15.9,2,3,14,39,Inactive,Low,High,High,2023,0,0.6013401145637947,1,Medium Risk
+Standard,399,8.3,4,1,34,42,Inactive,Medium,Medium,Medium,2023,0,0.47514276640112624,0,Medium Risk
+Premium,699,6.7,4,1,8,23,At Risk,Medium,Medium,Medium,2024,0,0.4054177456619657,0,Medium Risk
+Basic,199,11.5,2,4,24,19,At Risk,Low,High,Medium,2023,1,0.5713246920003341,1,Medium Risk
+Standard,399,16.1,1,2,23,46,Inactive,Low,Medium,High,2024,1,0.49144881824868764,0,Medium Risk
+Premium,699,16.2,4,3,19,15,At Risk,Medium,High,High,2024,0,0.5512579906901894,1,Medium Risk
+Premium,699,13.5,4,2,16,48,Inactive,Medium,Medium,Medium,2023,1,0.5830411756235213,1,Medium Risk
+Basic,199,4.9,5,3,12,3,Active,Medium,High,Low,2024,1,0.7682692364057111,1,High Risk
+Basic,199,11.8,7,1,30,50,Inactive,High,Medium,Medium,2024,1,0.6532749644450103,1,Medium Risk
+Standard,399,22.9,0,1,8,49,Inactive,Low,Medium,High,2023,0,0.39692833409696154,0,Low Risk
+Premium,699,18.3,7,4,19,26,At Risk,High,High,High,2023,1,0.7218070250841148,1,High Risk
+Standard,399,2.4,5,2,9,23,At Risk,Medium,Medium,Low,2024,1,0.801002592650381,1,High Risk
+Basic,199,6.2,5,2,19,57,Inactive,Medium,Medium,Medium,2023,1,0.6118910805051297,1,Medium Risk
+Basic,199,15.7,1,0,30,34,Inactive,Low,Low,High,2023,1,0.25643951731998715,0,Low Risk
+Basic,199,18.6,6,1,1,59,Inactive,High,Medium,High,2024,1,0.619682865122474,1,Medium Risk
+Basic,199,24.4,7,2,20,17,At Risk,High,Medium,High,2024,0,0.6107750936835832,1,Medium Risk
+Premium,699,1.1,2,0,8,15,At Risk,Low,Low,Low,2024,1,0.5516242607366557,1,Medium Risk
+Basic,199,16.2,7,3,5,21,At Risk,High,High,High,2023,1,0.6424118425008498,1,Medium Risk
+Premium,699,7.8,0,4,32,27,At Risk,Low,High,Medium,2023,0,0.46233665241829397,0,Medium Risk
+Premium,699,6.2,2,0,1,31,Inactive,Low,Low,Medium,2024,1,0.32368325100075834,0,Low Risk
+Premium,699,2.0,3,1,20,37,Inactive,Medium,Medium,Low,2024,0,0.732939099375959,1,High Risk
+Standard,399,11.6,8,3,4,29,At Risk,High,High,Medium,2024,1,0.7573482193542594,1,High Risk
+Standard,399,13.4,0,4,35,6,Active,Low,High,Medium,2023,0,0.34059607437459405,0,Low Risk
+Standard,399,12.7,3,2,35,29,At Risk,Medium,Medium,Medium,2024,0,0.4523652652609871,0,Medium Risk
+Standard,399,12.1,1,1,21,53,Inactive,Low,Medium,Medium,2024,1,0.47563060805740476,0,Medium Risk
+Premium,699,19.9,2,5,31,5,Active,Low,High,High,2024,1,0.5323391482733181,1,Medium Risk
+Premium,699,16.9,5,1,24,15,At Risk,Medium,Medium,High,2024,0,0.45484612011102143,0,Medium Risk
+Standard,399,15.3,4,3,35,32,Inactive,Medium,High,High,2024,1,0.6301410191798067,1,Medium Risk
+Standard,399,22.5,1,3,24,10,Active,Low,High,High,2024,0,0.3893079573251794,0,Low Risk
+Basic,199,18.1,8,1,15,29,At Risk,High,Medium,High,2023,1,0.5780056711392292,1,Medium Risk
+Standard,399,4.6,8,4,11,33,Inactive,High,High,Low,2023,1,0.9375786499299034,1,High Risk
+Basic,199,16.7,4,2,30,16,At Risk,Medium,Medium,High,2024,0,0.44564288439257843,0,Medium Risk
+Basic,199,1.6,3,5,27,23,At Risk,Medium,High,Low,2023,1,0.833320384783028,1,High Risk
+Premium,699,21.1,1,0,30,17,At Risk,Low,Low,High,2024,0,0.2432936668306312,0,Low Risk
+Premium,699,19.1,7,3,9,39,Inactive,High,High,High,2023,1,0.7430839459387016,1,High Risk
+Basic,199,7.7,8,5,12,25,At Risk,High,High,Medium,2024,1,0.8062146089372575,1,High Risk
+Premium,699,11.3,0,5,10,59,Inactive,Low,High,Medium,2023,1,0.6679298658887627,1,Medium Risk
+Basic,199,21.2,4,0,14,56,Inactive,Medium,Low,High,2023,0,0.4152589538045899,0,Medium Risk
+Standard,399,7.0,3,5,10,35,Inactive,Medium,High,Medium,2024,1,0.6870147995444699,1,Medium Risk
+Premium,699,19.5,7,3,9,38,Inactive,High,High,High,2023,1,0.7428249388052393,1,High Risk
+Standard,399,19.4,2,2,2,39,Inactive,Low,Medium,High,2024,0,0.5527347135187144,1,Medium Risk
+Standard,399,14.4,5,2,30,7,Active,Medium,Medium,Medium,2024,0,0.4186541294397491,0,Medium Risk
+Premium,699,20.0,0,2,8,34,Inactive,Low,Medium,High,2024,1,0.42636309078686935,0,Medium Risk
+Standard,399,17.0,6,1,33,43,Inactive,High,Medium,High,2023,1,0.5421645880808079,1,Medium Risk
+Premium,699,5.9,6,3,15,3,Active,High,High,Medium,2024,0,0.4589719265961298,0,Medium Risk
+Standard,399,20.7,7,4,23,9,Active,High,High,High,2023,0,0.6010814450677611,1,Medium Risk
+Basic,199,20.8,5,3,25,2,Active,Medium,High,High,2024,1,0.49065809820964584,0,Medium Risk
+Premium,699,23.2,7,4,23,46,Inactive,High,High,High,2024,1,0.8301022718289164,1,High Risk
+Premium,699,14.4,5,3,5,22,At Risk,Medium,High,Medium,2024,1,0.6606067197186872,1,Medium Risk
+Basic,199,9.7,8,1,35,10,Active,High,Medium,Medium,2023,1,0.41863000639334946,0,Medium Risk
+Basic,199,12.5,6,4,9,11,Active,High,High,Medium,2023,0,0.5394090486769273,1,Medium Risk
+Basic,199,15.6,0,0,5,39,Inactive,Low,Low,High,2023,1,0.22495429912303783,0,Low Risk
+Basic,199,23.8,6,5,23,28,At Risk,High,High,High,2024,1,0.7665290633423054,1,High Risk
+Basic,199,3.1,0,2,20,36,Inactive,Low,Medium,Low,2024,1,0.7067951180303872,1,High Risk
+Premium,699,4.4,7,0,26,33,Inactive,High,Low,Low,2024,1,0.7725429095011601,1,High Risk
+Basic,199,23.9,5,4,28,45,Inactive,Medium,High,High,2024,1,0.7894915979315359,1,High Risk
+Premium,699,20.3,8,3,4,60,Inactive,High,High,High,2024,1,0.8432870981347498,1,High Risk
+Premium,699,19.3,2,3,36,31,Inactive,Low,High,High,2024,1,0.6268981390311029,1,Medium Risk
+Premium,699,24.8,1,2,24,18,At Risk,Low,Medium,High,2023,0,0.39583423509185783,0,Low Risk
+Premium,699,17.6,3,5,21,9,Active,Medium,High,High,2024,0,0.4977721942410904,0,Medium Risk
+Premium,699,11.1,6,0,28,20,At Risk,High,Low,Medium,2023,0,0.3299574011101202,0,Low Risk
+Premium,699,18.2,5,2,11,2,Active,Medium,Medium,High,2023,1,0.3571926392298895,0,Low Risk
+Standard,399,10.9,4,4,24,4,Active,Medium,High,Medium,2024,1,0.48947018340676063,0,Medium Risk
+Basic,199,17.1,1,2,9,1,Active,Low,Medium,High,2023,0,0.2252363735662619,0,Low Risk
+Standard,399,2.9,6,4,1,26,At Risk,High,High,Low,2024,1,0.8884434826409069,1,High Risk
+Premium,699,15.6,4,2,29,52,Inactive,Medium,Medium,High,2024,1,0.5894991337884522,1,Medium Risk
+Basic,199,9.7,0,0,18,12,Active,Low,Low,Medium,2024,0,0.12404772732283072,0,Low Risk
+Standard,399,3.1,0,5,29,6,Active,Low,High,Low,2024,0,0.7035611708427716,1,High Risk
+Basic,199,16.8,5,3,20,35,Inactive,Medium,High,High,2024,1,0.6924871569256279,1,Medium Risk
+Premium,699,13.5,8,1,23,20,At Risk,High,Medium,Medium,2023,0,0.5799864691834161,1,Medium Risk
+Basic,199,17.4,3,2,4,35,Inactive,Medium,Medium,High,2024,1,0.48896407740789843,0,Medium Risk
+Basic,199,16.7,4,0,35,54,Inactive,Medium,Low,High,2024,1,0.41114177232746546,0,Medium Risk
+Basic,199,14.4,6,3,22,13,Active,High,High,Medium,2023,0,0.49765724247616144,0,Medium Risk
+Standard,399,11.7,2,2,13,0,Active,Low,Medium,Medium,2023,0,0.28365428753223954,0,Low Risk
+Premium,699,10.0,5,1,30,57,Inactive,Medium,Medium,Medium,2024,1,0.6157515362095152,1,Medium Risk
+Premium,699,18.2,1,4,30,3,Active,Low,High,High,2023,0,0.3725159267394972,0,Low Risk
+Basic,199,18.8,6,5,3,3,Active,High,High,High,2023,0,0.5668867007724946,1,Medium Risk
+Standard,399,23.6,8,0,5,6,Active,High,Low,High,2024,0,0.3643723078586526,0,Low Risk
+Premium,699,15.2,5,0,3,4,Active,Medium,Low,High,2023,0,0.2032215549729708,0,Low Risk
+Basic,199,9.7,6,3,32,45,Inactive,High,High,Medium,2024,1,0.7167413584361272,1,High Risk
+Standard,399,14.9,3,5,13,16,At Risk,Medium,High,Medium,2024,0,0.6444020153585579,1,Medium Risk
+Basic,199,15.2,2,4,2,46,Inactive,Low,High,High,2024,0,0.6884092202288479,1,Medium Risk
+Basic,199,11.7,2,1,7,45,Inactive,Low,Medium,Medium,2023,1,0.4727319329337226,0,Medium Risk
+Premium,699,7.0,5,1,4,45,Inactive,Medium,Medium,Medium,2023,1,0.5383723199829772,1,Medium Risk
+Basic,199,0.6,3,5,36,51,Inactive,Medium,High,Low,2023,0,0.8872738896809345,1,High Risk
+Premium,699,6.0,1,1,28,46,Inactive,Low,Medium,Medium,2024,0,0.42048300706654107,0,Medium Risk
+Basic,199,7.4,7,2,4,34,Inactive,High,Medium,Medium,2023,1,0.6149033838777784,1,Medium Risk
+Basic,199,4.8,4,2,35,20,At Risk,Medium,Medium,Low,2024,1,0.757825420734249,1,High Risk
+Basic,199,3.1,5,1,14,0,Active,Medium,Medium,Low,2023,1,0.58940266491453,1,Medium Risk
+Standard,399,19.1,6,1,7,60,Inactive,High,Medium,High,2024,1,0.6319517196118916,1,Medium Risk
+Premium,699,17.1,8,2,25,24,At Risk,High,Medium,High,2023,0,0.6219877543272868,1,Medium Risk
+Standard,399,3.7,0,1,25,33,Inactive,Low,Medium,Low,2024,0,0.6593507781695727,1,Medium Risk
+Standard,399,0.6,6,5,7,53,Inactive,High,High,Low,2023,1,0.9305616093556202,1,High Risk
+Standard,399,12.7,6,3,2,38,Inactive,High,High,Medium,2023,1,0.699415144514627,1,Medium Risk
+Standard,399,11.0,8,2,16,50,Inactive,High,Medium,Medium,2023,1,0.7299092487167296,1,High Risk
+Premium,699,14.6,1,0,24,42,Inactive,Low,Low,Medium,2023,1,0.31472886126033667,0,Low Risk
+Premium,699,22.2,2,4,22,34,Inactive,Low,High,High,2023,0,0.6760945710506429,1,Medium Risk
+Premium,699,17.5,3,4,36,20,At Risk,Medium,High,High,2024,0,0.5698602181831255,1,Medium Risk
+Premium,699,11.9,6,1,7,1,Active,High,Medium,Medium,2023,0,0.3105787962750158,0,Low Risk
+Standard,399,8.4,4,1,13,9,Active,Medium,Medium,Medium,2023,1,0.2624869890387495,0,Low Risk
+Basic,199,20.5,7,2,13,19,At Risk,High,Medium,High,2023,0,0.5642331141608566,1,Medium Risk
+Premium,699,16.5,3,4,30,59,Inactive,Medium,High,High,2024,1,0.70320772175189,1,High Risk
+Standard,399,10.0,8,3,26,51,Inactive,High,High,Medium,2023,1,0.7995674576471818,1,High Risk
+Standard,399,5.9,2,1,10,45,Inactive,Low,Medium,Medium,2024,0,0.4757727900369581,0,Medium Risk
+Standard,399,9.0,2,0,7,18,At Risk,Low,Low,Medium,2024,0,0.2705306947158523,0,Low Risk
+Premium,699,23.0,6,2,34,8,Active,High,Medium,High,2024,1,0.42693569815767485,0,Medium Risk
+Standard,399,11.9,8,2,35,10,Active,High,Medium,Medium,2024,0,0.5273324887201633,1,Medium Risk
+Basic,199,15.9,2,0,12,25,At Risk,Low,Low,High,2023,1,0.2517867285339665,0,Low Risk
+Standard,399,15.4,7,5,2,18,At Risk,High,High,High,2023,0,0.736315103113047,1,High Risk
+Premium,699,3.6,7,4,9,10,Active,High,High,Low,2024,1,0.8512594622127102,1,High Risk
+Standard,399,7.4,4,4,22,0,Active,Medium,High,Medium,2023,0,0.4272859229108045,0,Medium Risk
+Premium,699,24.7,3,4,16,7,Active,Medium,High,High,2023,1,0.44774037220833046,0,Medium Risk
+Basic,199,19.9,0,0,1,34,Inactive,Low,Low,High,2023,0,0.23389228318398597,0,Low Risk
+Premium,699,1.6,3,1,21,36,Inactive,Medium,Medium,Low,2024,1,0.7287790575722222,1,High Risk
+Basic,199,7.0,8,5,11,35,Inactive,High,High,Medium,2024,0,0.8444342418735727,1,High Risk
+Premium,699,8.9,3,3,4,29,At Risk,Medium,High,Medium,2024,1,0.5349947550384465,1,Medium Risk
+Premium,699,4.3,4,1,32,3,Active,Medium,Medium,Low,2024,0,0.5843158557027883,1,Medium Risk
+Standard,399,3.8,5,5,22,50,Inactive,Medium,High,Low,2024,1,0.9404442853561122,1,High Risk
+Standard,399,17.6,6,4,18,41,Inactive,High,High,High,2023,1,0.7378437475045923,1,High Risk
+Basic,199,4.3,4,5,24,28,At Risk,Medium,High,Low,2024,1,0.8898154944575193,1,High Risk
+Basic,199,14.6,2,0,19,19,At Risk,Low,Low,Medium,2023,0,0.26819857171441613,0,Low Risk
+Standard,399,19.2,8,5,9,29,At Risk,High,High,High,2024,0,0.8313928423360151,1,High Risk
+Basic,199,22.0,3,3,36,23,At Risk,Medium,High,High,2023,1,0.5085654980960017,1,Medium Risk
+Standard,399,19.2,4,2,7,34,Inactive,Medium,Medium,High,2024,1,0.5631431412423517,1,Medium Risk
+Standard,399,12.3,6,4,28,50,Inactive,High,High,Medium,2023,1,0.7663459765510084,1,High Risk
+Premium,699,14.8,4,5,8,1,Active,Medium,High,Medium,2024,1,0.5648404012930666,1,Medium Risk
+Premium,699,8.7,7,2,25,11,Active,High,Medium,Medium,2023,1,0.4241069311215934,0,Medium Risk
+Basic,199,12.7,6,4,12,7,Active,High,High,Medium,2023,1,0.5293195846514934,1,Medium Risk
+Basic,199,18.6,0,5,33,13,Active,Low,High,High,2024,0,0.4204550815802794,0,Medium Risk
+Standard,399,22.5,3,5,3,15,At Risk,Medium,High,High,2023,0,0.6137930698491345,1,Medium Risk
+Standard,399,15.0,7,2,14,0,Active,High,Medium,Medium,2023,0,0.4316019598053399,0,Medium Risk
+Premium,699,20.2,4,1,27,51,Inactive,Medium,Medium,High,2024,0,0.55792160490654,1,Medium Risk
+Standard,399,19.3,6,5,33,25,At Risk,High,High,High,2024,1,0.7453865514235358,1,High Risk
+Basic,199,19.2,2,4,12,20,At Risk,Low,High,High,2024,0,0.6049882447786123,1,Medium Risk
+Basic,199,5.4,4,5,24,39,Inactive,Medium,High,Medium,2024,1,0.7290275305373836,1,High Risk
+Standard,399,20.1,8,0,32,58,Inactive,High,Low,High,2024,0,0.623027818022703,1,Medium Risk
+Premium,699,10.1,5,1,14,56,Inactive,Medium,Medium,Medium,2023,1,0.5858165700378244,1,Medium Risk
+Basic,199,16.8,5,3,3,29,At Risk,Medium,High,High,2024,0,0.6410808561026644,1,Medium Risk
+Basic,199,17.0,6,1,19,57,Inactive,High,Medium,High,2023,1,0.5738984585812134,1,Medium Risk
+Basic,199,24.5,5,1,33,29,At Risk,Medium,Medium,High,2024,1,0.5294903132294767,1,Medium Risk
+Premium,699,9.3,6,2,13,10,Active,High,Medium,Medium,2024,1,0.398822383535198,0,Low Risk
+Basic,199,19.6,6,3,19,36,Inactive,High,High,High,2023,1,0.6825709297514168,1,Medium Risk
+Standard,399,15.1,1,1,34,18,At Risk,Low,Medium,High,2023,0,0.2896053335116923,0,Low Risk
+Premium,699,5.3,3,1,12,8,Active,Medium,Medium,Medium,2023,0,0.20600322237709037,0,Low Risk
+Premium,699,4.6,5,5,33,41,Inactive,Medium,High,Low,2024,1,0.9358282941758599,1,High Risk
+Standard,399,9.3,3,4,22,33,Inactive,Medium,High,Medium,2024,1,0.6421544955234775,1,Medium Risk
+Premium,699,24.2,6,1,36,14,Active,High,Medium,High,2023,0,0.36525559037373134,0,Low Risk
+Standard,399,5.2,4,5,23,14,Active,Medium,High,Medium,2024,1,0.5401753047679761,1,Medium Risk
+Basic,199,19.8,1,4,33,42,Inactive,Low,High,High,2024,1,0.6485830368558803,1,Medium Risk
+Basic,199,18.2,8,2,34,1,Active,High,Medium,High,2024,0,0.4864076189606148,0,Medium Risk
+Standard,399,8.4,7,5,34,0,Active,High,High,Medium,2024,1,0.6333719047211428,1,Medium Risk
+Basic,199,5.5,4,4,31,5,Active,Medium,High,Medium,2023,1,0.4209681271590102,0,Medium Risk
+Basic,199,23.9,1,2,19,59,Inactive,Low,Medium,High,2023,1,0.5364942007120277,1,Medium Risk
+Premium,699,19.4,5,2,8,53,Inactive,Medium,Medium,High,2024,1,0.6700506556429463,1,Medium Risk
+Basic,199,14.6,5,0,18,4,Active,Medium,Low,Medium,2024,1,0.24699881578700864,0,Low Risk
+Basic,199,22.6,4,1,21,46,Inactive,Medium,Medium,High,2024,1,0.5502292975260871,1,Medium Risk
+Standard,399,20.6,7,2,11,45,Inactive,High,Medium,High,2024,1,0.7058062696141975,1,High Risk
+Premium,699,16.8,3,1,2,52,Inactive,Medium,Medium,High,2023,1,0.45351590776965955,0,Medium Risk
+Premium,699,13.0,6,1,18,17,At Risk,High,Medium,Medium,2024,1,0.48292060399774245,0,Medium Risk
+Premium,699,16.0,1,4,22,5,Active,Low,High,High,2023,0,0.3659679165212633,0,Low Risk
+Standard,399,2.9,5,2,25,26,At Risk,Medium,Medium,Low,2024,1,0.8071534569163596,1,High Risk
+Standard,399,2.9,6,3,34,54,Inactive,High,High,Low,2023,1,0.8994146010157577,1,High Risk
+Premium,699,2.8,2,4,8,58,Inactive,Low,High,Low,2024,1,0.9058613480381487,1,High Risk
+Standard,399,4.7,8,1,6,2,Active,High,Medium,Low,2024,0,0.7401459436762748,1,High Risk
+Basic,199,19.9,8,1,12,7,Active,High,Medium,High,2023,0,0.42772482775261345,0,Medium Risk
+Premium,699,0.8,3,5,14,18,At Risk,Medium,High,Low,2023,1,0.8286562516270092,1,High Risk
+Premium,699,23.6,7,0,16,40,Inactive,High,Low,High,2023,1,0.5104466246227065,1,Medium Risk
+Basic,199,0.6,0,4,32,59,Inactive,Low,High,Low,2024,1,0.8462972832774888,1,High Risk
+Standard,399,20.3,8,4,15,39,Inactive,High,High,High,2024,1,0.8418423093432431,1,High Risk
+Standard,399,1.7,6,3,12,43,Inactive,High,High,Low,2024,1,0.8976218308328127,1,High Risk
+Premium,699,11.7,0,0,20,30,At Risk,Low,Low,Medium,2024,0,0.22025277725616346,0,Low Risk
+Basic,199,6.6,3,2,7,34,Inactive,Medium,Medium,Medium,2023,0,0.4366293596449124,0,Medium Risk
+Basic,199,15.6,3,1,7,3,Active,Medium,Medium,High,2024,0,0.2222552026431666,0,Low Risk
+Premium,699,9.0,0,3,10,6,Active,Low,High,Medium,2023,1,0.27225893798929207,0,Low Risk
+Standard,399,20.1,6,1,17,54,Inactive,High,Medium,High,2024,0,0.6211895991649233,1,Medium Risk
+Premium,699,2.2,8,0,11,33,Inactive,High,Low,Low,2024,1,0.8038176189471091,1,High Risk
+Basic,199,16.6,7,1,29,8,Active,High,Medium,High,2024,0,0.38239872344391673,0,Low Risk
+Standard,399,3.5,3,3,25,4,Active,Medium,High,Low,2024,0,0.6752335354839472,1,Medium Risk
+Premium,699,3.2,0,5,28,15,At Risk,Low,High,Low,2023,0,0.7783900223102241,1,High Risk
+Premium,699,9.6,5,0,1,19,At Risk,Medium,Low,Medium,2024,0,0.3498386751483107,0,Low Risk
+Standard,399,22.5,1,3,10,1,Active,Low,High,High,2024,0,0.3671953746721842,0,Low Risk
+Standard,399,1.3,5,1,15,51,Inactive,Medium,Medium,Low,2024,1,0.8340652672767477,1,High Risk
+Premium,699,23.3,5,3,34,50,Inactive,Medium,High,High,2023,1,0.7395683722380505,1,High Risk
+Premium,699,13.0,4,5,4,25,At Risk,Medium,High,Medium,2024,1,0.7091814055060327,1,High Risk
+Premium,699,14.1,7,1,24,59,Inactive,High,Medium,Medium,2023,0,0.6693018862872587,1,Medium Risk
+Standard,399,2.1,3,2,6,5,Active,Medium,Medium,Low,2024,0,0.5768721030925553,1,Medium Risk
+Premium,699,11.5,4,5,5,46,Inactive,Medium,High,Medium,2023,1,0.7570147842347384,1,High Risk
+Premium,699,15.3,6,1,33,20,At Risk,High,Medium,High,2024,0,0.45730835964252153,0,Medium Risk
+Standard,399,5.4,2,4,35,25,At Risk,Low,High,Medium,2023,0,0.5579681812530607,1,Medium Risk
+Basic,199,13.9,7,3,16,4,Active,High,High,Medium,2024,1,0.5594434899689733,1,Medium Risk
+Premium,699,4.6,7,2,28,28,At Risk,High,Medium,Low,2023,1,0.8331630515100297,1,High Risk
+Basic,199,9.2,2,1,25,15,At Risk,Low,Medium,Medium,2024,0,0.3639870030882924,0,Low Risk
+Standard,399,7.4,7,5,20,43,Inactive,High,High,Medium,2023,1,0.8115672324534949,1,High Risk
+Standard,399,19.0,4,3,32,10,Active,Medium,High,High,2023,0,0.42035442057526823,0,Medium Risk
+Basic,199,4.1,0,0,32,42,Inactive,Low,Low,Low,2023,1,0.52799781440825,1,Medium Risk
+Standard,399,23.7,8,2,22,56,Inactive,High,Medium,High,2024,1,0.7862914437361053,1,High Risk
+Basic,199,22.8,6,3,15,28,At Risk,High,High,High,2024,1,0.669691020476847,1,Medium Risk
+Basic,199,19.4,1,5,9,45,Inactive,Low,High,High,2024,0,0.7060164702875396,1,High Risk
+Premium,699,21.9,1,1,25,50,Inactive,Low,Medium,High,2023,0,0.4506164566027863,0,Medium Risk
+Standard,399,4.2,1,0,21,42,Inactive,Low,Low,Low,2024,0,0.6243284671288294,1,Medium Risk
+Basic,199,15.1,0,1,29,47,Inactive,Low,Medium,High,2024,1,0.36659514816428646,0,Low Risk
+Basic,199,21.2,5,0,8,23,At Risk,Medium,Low,High,2024,0,0.3730268169148771,0,Low Risk
+Standard,399,13.0,6,4,3,31,Inactive,High,High,Medium,2023,0,0.7319323119429377,1,High Risk
+Premium,699,9.5,6,2,20,35,Inactive,High,Medium,Medium,2024,1,0.6100409872577558,1,Medium Risk
+Basic,199,1.4,6,2,17,46,Inactive,High,Medium,Low,2024,1,0.8528243886055671,1,High Risk
+Basic,199,23.0,8,3,18,20,At Risk,High,High,High,2023,1,0.7250647598094485,1,High Risk
+Basic,199,20.3,4,5,11,44,Inactive,Medium,High,High,2023,1,0.7508249363009607,1,High Risk
+Basic,199,3.0,3,1,4,26,At Risk,Medium,Medium,Low,2024,0,0.6704119381012996,1,Medium Risk
+Standard,399,3.0,7,1,1,5,Active,High,Medium,Low,2023,0,0.6644192578641553,1,Medium Risk
+Basic,199,16.9,5,0,26,24,At Risk,Medium,Low,High,2023,1,0.32256887941424955,0,Low Risk
+Basic,199,14.1,5,5,30,11,Active,Medium,High,Medium,2023,1,0.6039744712377566,1,Medium Risk
+Premium,699,9.7,6,3,27,55,Inactive,High,High,Medium,2024,0,0.7459787724314997,1,High Risk
+Basic,199,14.1,5,3,13,9,Active,Medium,High,Medium,2024,1,0.5170325382732212,1,Medium Risk
+Basic,199,12.4,0,3,31,49,Inactive,Low,High,Medium,2024,0,0.5577200990745003,1,Medium Risk
+Premium,699,18.4,1,1,20,6,Active,Low,Medium,High,2023,0,0.20637066469778512,0,Low Risk
+Standard,399,3.5,4,0,33,22,At Risk,Medium,Low,Low,2023,0,0.5768976202765101,1,Medium Risk
+Premium,699,16.1,1,4,27,33,Inactive,Low,High,High,2024,1,0.6135617431242745,1,Medium Risk
+Premium,699,3.1,5,3,33,45,Inactive,Medium,High,Low,2024,1,0.9026322029787884,1,High Risk
+Basic,199,13.9,5,3,2,43,Inactive,Medium,High,Medium,2023,1,0.7110290204286638,1,High Risk
+Standard,399,20.8,1,5,25,15,At Risk,Low,High,High,2024,0,0.6062658270950102,1,Medium Risk
+Basic,199,2.9,3,5,33,18,At Risk,Medium,High,Low,2023,1,0.829663216233443,1,High Risk
+Standard,399,6.1,8,0,32,44,Inactive,High,Low,Medium,2024,1,0.5483515446754581,1,Medium Risk
+Standard,399,9.4,2,4,26,31,Inactive,Low,High,Medium,2023,1,0.6391792420376117,1,Medium Risk
+Standard,399,13.3,1,5,15,38,Inactive,Low,High,Medium,2024,0,0.7038954119621295,1,High Risk
+Premium,699,6.3,0,1,6,54,Inactive,Low,Medium,Medium,2024,1,0.3889904927954477,0,Low Risk
+Basic,199,23.3,8,2,34,25,At Risk,High,Medium,High,2024,1,0.6774283464514809,1,Medium Risk
+Standard,399,5.1,1,3,2,18,At Risk,Low,High,Medium,2023,1,0.4244798340515193,0,Medium Risk
+Standard,399,10.2,1,5,33,1,Active,Low,High,Medium,2024,1,0.4489955833571608,0,Medium Risk
+Standard,399,4.8,5,5,8,7,Active,Medium,High,Low,2024,1,0.8499728713594733,1,High Risk
+Standard,399,9.6,7,5,18,24,At Risk,High,High,Medium,2024,0,0.7781188805734524,1,High Risk
+Premium,699,12.0,8,5,8,52,Inactive,High,High,Medium,2023,1,0.8716838643247073,1,High Risk
+Standard,399,3.5,3,5,32,10,Active,Medium,High,Low,2023,1,0.7565736315305684,1,High Risk
+Premium,699,20.9,8,1,3,27,At Risk,High,Medium,High,2023,1,0.5990411066739456,1,Medium Risk
+Standard,399,14.9,8,2,10,33,Inactive,High,Medium,Medium,2024,1,0.7360607267807898,1,High Risk
+Basic,199,22.7,8,4,16,34,Inactive,High,High,High,2023,0,0.8206115268608527,1,High Risk
+Premium,699,14.7,7,3,21,26,At Risk,High,High,Medium,2024,1,0.7197675701814028,1,High Risk
+Basic,199,24.7,7,4,29,18,At Risk,High,High,High,2024,1,0.7507042179846828,1,High Risk
+Premium,699,12.5,0,1,11,55,Inactive,Low,Medium,Medium,2024,0,0.4274928250365148,0,Medium Risk
+Premium,699,16.3,3,5,24,48,Inactive,Medium,High,High,2023,0,0.6998235336593617,1,Medium Risk
+Basic,199,7.0,8,5,27,59,Inactive,High,High,Medium,2023,1,0.8615526392235,1,High Risk
+Premium,699,1.5,4,3,32,26,At Risk,Medium,High,Low,2024,1,0.8279557668540376,1,High Risk
+Premium,699,14.1,0,2,28,60,Inactive,Low,Medium,Medium,2024,0,0.5064523289770091,1,Medium Risk
+Basic,199,21.9,7,0,32,2,Active,High,Low,High,2024,0,0.285141567065183,0,Low Risk
+Basic,199,17.2,0,0,34,44,Inactive,Low,Low,High,2023,1,0.23971093010109362,0,Low Risk
+Basic,199,11.9,2,3,24,40,Inactive,Low,High,Medium,2023,1,0.6155553002864818,1,Medium Risk
+Basic,199,8.8,3,5,1,42,Inactive,Medium,High,Medium,2023,1,0.6806453292509882,1,Medium Risk
+Basic,199,24.8,5,0,31,21,At Risk,Medium,Low,High,2024,0,0.3862636635884391,0,Low Risk
+Standard,399,13.4,4,0,32,23,At Risk,Medium,Low,Medium,2023,1,0.2977814025026216,0,Low Risk
+Standard,399,8.1,6,3,8,31,Inactive,High,High,Medium,2023,0,0.6577327956954961,1,Medium Risk
+Basic,199,14.0,5,1,26,26,At Risk,Medium,Medium,Medium,2023,0,0.4741392290240251,0,Medium Risk
+Basic,199,9.7,6,5,10,53,Inactive,High,High,Medium,2023,1,0.7963819860058406,1,High Risk
+Basic,199,12.4,6,2,25,36,Inactive,High,Medium,Medium,2023,1,0.5909869205897519,1,Medium Risk
+Basic,199,20.2,5,2,33,3,Active,Medium,Medium,High,2023,1,0.3605445732153352,0,Low Risk
+Standard,399,4.1,1,3,3,32,Inactive,Low,High,Low,2023,0,0.804906374552499,1,High Risk
+Premium,699,17.2,4,3,9,53,Inactive,Medium,High,High,2023,0,0.6689918092167758,1,Medium Risk
+Standard,399,23.9,8,3,4,50,Inactive,High,High,High,2024,0,0.839537049157657,1,High Risk
+Basic,199,2.6,3,0,20,35,Inactive,Medium,Low,Low,2024,0,0.614171750748093,1,Medium Risk
+Standard,399,6.3,4,2,25,19,At Risk,Medium,Medium,Medium,2024,0,0.44573845793598754,0,Medium Risk
+Standard,399,18.7,0,1,27,42,Inactive,Low,Medium,High,2024,1,0.38166429654994966,0,Low Risk
+Basic,199,6.1,7,0,7,7,Active,High,Low,Medium,2023,0,0.2361723997485904,0,Low Risk
+Standard,399,12.4,1,3,30,7,Active,Low,High,Medium,2024,0,0.3670813598294036,0,Low Risk
+Basic,199,1.6,7,4,2,54,Inactive,High,High,Low,2024,1,0.938668974545833,1,High Risk
+Standard,399,21.8,8,3,8,10,Active,High,High,High,2024,0,0.6412265074098307,1,Medium Risk
+Basic,199,16.7,3,3,28,22,At Risk,Medium,High,High,2024,0,0.5050675400630313,1,Medium Risk
+Premium,699,1.0,0,0,8,34,Inactive,Low,Low,Low,2024,1,0.5291465183634229,1,Medium Risk
+Basic,199,7.4,8,0,16,4,Active,High,Low,Medium,2023,1,0.28012465198253117,0,Low Risk
+Premium,699,19.2,0,3,26,3,Active,Low,High,High,2023,0,0.27664404646075347,0,Low Risk
+Premium,699,6.4,4,5,17,27,At Risk,Medium,High,Medium,2023,0,0.6515600898892914,1,Medium Risk
+Basic,199,8.5,1,3,30,11,Active,Low,High,Medium,2024,1,0.34826562579020776,0,Low Risk
+Basic,199,6.3,5,2,5,24,At Risk,Medium,Medium,Medium,2023,0,0.4815733766916289,0,Medium Risk
+Basic,199,22.9,2,5,30,31,Inactive,Low,High,High,2024,1,0.7375142070871856,1,High Risk
+Standard,399,22.8,0,2,21,57,Inactive,Low,Medium,High,2023,1,0.473306290088923,0,Medium Risk
+Premium,699,24.2,7,2,32,26,At Risk,High,Medium,High,2024,1,0.6403643951414257,1,Medium Risk
+Premium,699,2.2,8,1,14,37,Inactive,High,Medium,Low,2023,1,0.8619583184173734,1,High Risk
+Basic,199,22.2,3,1,33,56,Inactive,Medium,Medium,High,2023,1,0.48505643248305014,0,Medium Risk
+Premium,699,15.3,1,5,36,29,At Risk,Low,High,High,2024,1,0.6114944229224285,1,Medium Risk
+Standard,399,20.7,4,2,13,8,Active,Medium,Medium,High,2024,1,0.35920007493775785,0,Low Risk
+Standard,399,15.3,4,0,30,28,At Risk,Medium,Low,High,2023,1,0.2805634379707888,0,Low Risk
+Premium,699,18.1,5,5,31,28,At Risk,Medium,High,High,2024,1,0.7477952185581141,1,High Risk
+Premium,699,3.4,2,1,5,12,Active,Low,Medium,Low,2024,0,0.5804110762734151,1,Medium Risk
