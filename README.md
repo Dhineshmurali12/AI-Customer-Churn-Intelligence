@@ -148,6 +148,38 @@ Integrated the model outputs, SHAP explanations, and customer-level information 
 
 The dashboard supports filtering, risk analysis, and customer-level drill-through for business decision-making.
 ---
+---
+
+## 🧠 SHAP Explainability
+
+The project uses **SHAP (SHapley Additive exPlanations)** to interpret individual customer churn predictions.
+
+For each customer, SHAP values indicate how individual features contribute to the model's predicted churn risk.
+
+### Example Customer Explanation
+
+For a high-risk customer with a predicted churn probability of **95.87%**, the strongest model drivers included:
+
+| Feature | SHAP Contribution | Interpretation |
+|---|---:|---|
+| Usage Level — Low | **+1.2683** | Strong positive contribution to predicted churn risk |
+| Support Tickets | **+0.9662** | Increased model-predicted churn risk |
+| Payment Failures | **+0.5876** | Increased model-predicted churn risk |
+| Inactive Login | **+0.3244** | Contributed to higher predicted churn risk |
+| Days Since Last Login | **+0.1820** | Contributed to higher predicted churn risk |
+
+Negative SHAP contributions included:
+
+| Feature | SHAP Contribution |
+|---|---:|
+| Low Support Risk | **-0.2537** |
+| Average Weekly Usage Hours | **-0.2224** |
+
+> **Note:** SHAP values explain the model's prediction and should not be interpreted as proof of causation.
+
+### SHAP Feature Importance
+
+![SHAP Feature Importance](dashboard_images/shap_feature_importance.png)
 
 ## 📁 Project Structure
 
