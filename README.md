@@ -180,6 +180,37 @@ Negative SHAP contributions included:
 ### SHAP Feature Importance
 
 ![SHAP Feature Importance](dashboard_images/shap_feature_importance.png)
+---
+
+## 🤖 LLM-Powered Retention Recommendations
+
+The system uses an LLM through **OpenRouter** to convert customer churn predictions and SHAP-based risk factors into actionable retention strategies.
+
+### Example Customer Recommendation
+
+**Customer ID:** 2461
+
+**Predicted Churn Probability:** 95.87%
+
+**Priority:** Critical
+
+#### Key Churn Reasons
+
+- **Low usage level** — SHAP: **+1.2683**
+- **Support tickets** — SHAP: **+0.9662**
+- **Payment failures** — SHAP: **+0.5876**
+
+#### Recommended Retention Actions
+
+1. **Immediate outreach** to understand low product usage and explore suitable re-engagement options.
+2. **Support ticket triage** to address the customer's reported issues.
+3. **Payment support** to reduce payment friction and improve subscription continuity.
+
+### Business Explanation
+
+The customer has a very high predicted churn probability and several model-identified risk factors. The LLM converts these signals into practical retention actions that a business team can review and prioritize.
+
+> **Note:** LLM-generated recommendations are decision-support outputs and should be reviewed by business users before being applied to customers.
 
 ## 📁 Project Structure
 
