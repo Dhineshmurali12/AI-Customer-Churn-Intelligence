@@ -53,7 +53,7 @@ The system transforms customer-level churn predictions into actionable retention
 |----------|--------------|
 | **Programming** | Python, SQL |
 | **Data Analysis** | Pandas, NumPy, Jupyter Notebook |
-| **Machine Learning** | Scikit-learn, XGBoost |
+| **Machine Learning** | Scikit-learn, Logistic Regression |
 | **Explainable AI** | SHAP |
 | **Generative AI** | LLMs, OpenRouter |
 | **Database** | SQLite |
