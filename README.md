@@ -59,3 +59,31 @@ LLM Retention Recommendations
       │
       ▼
 Power BI Dashboard
+---
+
+## 📊 Power BI Dashboard
+
+### Executive Overview
+
+The executive dashboard provides a high-level view of customer churn, including total customers, churn rate, churned customers, high-risk customers, and behavioral churn patterns.
+
+![Executive Overview](dashboard_images/01_executive_overview.png)
+
+### AI Risk & Customer Intelligence
+
+This dashboard combines ML churn predictions, customer risk classification, churn probability distribution, retention priority, and customer-level risk factors.
+
+![AI Risk & Customer Intelligence](dashboard_images/02_ai_risk_customer_intelligence.png)
+
+### Customer Intelligence Detail
+
+Customer-level analysis enables drill-through investigation of individual customers, their churn probability, risk category, behavioral factors, and retention priority.
+
+![Customer Intelligence Detail](dashboard_images/03_customer_intelligence_detail.png)
+---
+
+## 📄 Project Report
+
+A detailed project report covering the methodology, machine learning pipeline, SHAP explainability, LLM-based recommendations, and Power BI dashboard.
+
+[View Project Report](reports/AI%20Customer%20Churn%20Intelligence.pdf)
