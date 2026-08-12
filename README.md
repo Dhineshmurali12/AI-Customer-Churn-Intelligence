@@ -96,6 +96,59 @@ Power BI Dashboard
 ```
 ---
 
+## 🔬 Methodology
+
+### 1. Data Understanding & EDA
+
+Explored the customer dataset to understand customer behavior, churn patterns, numerical distributions, and categorical variables.
+
+### 2. Data Cleaning & Feature Engineering
+
+Prepared the data for machine learning by handling preprocessing requirements, transforming numerical and categorical features, and creating model-ready features.
+
+### 3. SQL Business Analysis
+
+Performed SQL-based analysis to identify customer behavior patterns, churn-related trends, and business insights that support retention decisions.
+
+### 4. Machine Learning
+
+Built and evaluated a classification-based churn prediction pipeline to estimate the probability of customer churn.
+
+The model produces a customer-level churn probability that is subsequently used for risk classification and retention prioritization.
+
+### 5. SHAP Explainability
+
+Applied **SHAP (SHapley Additive exPlanations)** to explain individual churn predictions.
+
+For each customer, SHAP identifies the features that contribute positively or negatively to the model's prediction.
+
+This makes the churn model more interpretable for business users.
+
+### 6. Risk Classification & Retention Priority
+
+Converted predicted churn probabilities into actionable customer risk categories and retention priorities.
+
+This allows the business to focus retention efforts on customers with higher predicted churn risk.
+
+### 7. LLM-Powered Retention Recommendations
+
+Used an LLM through **OpenRouter** to transform customer churn information and SHAP drivers into structured retention recommendations.
+
+The generated recommendations include:
+
+- Churn assessment
+- Key churn reasons
+- Retention actions
+- Priority
+- Business explanation
+
+### 8. Power BI Intelligence Dashboard
+
+Integrated the model outputs, SHAP explanations, and customer-level information into an interactive Power BI dashboard.
+
+The dashboard supports filtering, risk analysis, and customer-level drill-through for business decision-making.
+---
+
 ## 📁 Project Structure
 
 ```text
