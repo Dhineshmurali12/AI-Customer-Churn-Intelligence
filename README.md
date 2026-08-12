@@ -94,7 +94,50 @@ LLM Retention Recommendations
       ▼
 Power BI Dashboard
 ```
+---
 
+## 📁 Project Structure
+
+```text
+AI-Customer-Churn-Intelligence/
+│
+├── data/
+│   └── Customer churn datasets and dashboard-ready data
+│
+├── models/
+│   └── LLM-generated customer retention recommendations
+│
+├── notebooks/
+│   ├── 01_Data_Understanding_and_EDA.ipynb
+│   ├── 02_Data_Cleaning_and_Feature_Engineering.ipynb
+│   ├── 03_SQL_Business_Analysis.ipynb
+│   ├── 04_ML_Modeling_and_Baseline.ipynb
+│   ├── 05_SHAP_Explainability.ipynb
+│   ├── 06_LLM_Retention_Recommendations.ipynb
+│   ├── 07_AI_Churn_Intelligence_Pipeline.ipynb
+│   └── customer_shap_explanations.csv
+│
+├── dashboard_images/
+│   ├── 01_executive_overview.png
+│   ├── 02_ai_risk_customer_intelligence.png
+│   ├── 03_customer_intelligence_detail.png
+│   └── shap_feature_importance.png
+│
+├── powerbi/
+│   └── AI Customer Churn Intelligence.pbix
+│
+├── reports/
+│   └── AI Customer Churn Intelligence.pdf
+│
+├── sql/
+│   └── SQL business analysis queries
+│
+├── src/
+│   └── Project source code and reusable components
+│
+├── .gitignore
+├── README.md
+└── requirements.txt
 ---
 
 ## 📊 Power BI Dashboard
