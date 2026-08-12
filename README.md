@@ -112,9 +112,9 @@ Performed SQL-based analysis to identify customer behavior patterns, churn-relat
 
 ### 4. Machine Learning
 
-Built and evaluated a classification-based churn prediction pipeline to estimate the probability of customer churn.
+Built and evaluated a **Logistic Regression classification pipeline** using Scikit-learn to estimate customer churn probability.
 
-The model produces a customer-level churn probability that is subsequently used for risk classification and retention prioritization.
+The pipeline includes preprocessing for numerical and categorical features and produces a customer-level churn probability that is subsequently used for risk classification and retention prioritization.
 
 ### 5. SHAP Explainability
 
