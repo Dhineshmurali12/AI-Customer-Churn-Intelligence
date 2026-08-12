@@ -45,6 +45,21 @@ The system transforms customer-level churn predictions into actionable retention
 - Converts model predictions into **Critical, High, Medium, and Low retention priorities**.
 - Generates customer-specific retention strategies using an **LLM**.
 - Enables business users to investigate individual customers through **Power BI drill-through analysis**.
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **Programming** | Python, SQL |
+| **Data Analysis** | Pandas, NumPy, Jupyter Notebook |
+| **Machine Learning** | Scikit-learn, XGBoost |
+| **Explainable AI** | SHAP |
+| **Generative AI** | LLMs, OpenRouter |
+| **Database** | SQLite |
+| **Business Intelligence** | Power BI, DAX, Power Query |
+| **Data Visualization** | Matplotlib, Seaborn, Power BI |
+| **Version Control** | Git, GitHub | 
 
 ## 🏗️ System Architecture
 
