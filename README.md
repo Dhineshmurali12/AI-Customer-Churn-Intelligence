@@ -27,6 +27,25 @@ The system follows:
 
 ---
 
+## 📈 Key Results & Business Impact
+
+The system transforms customer-level churn predictions into actionable retention intelligence.
+
+| Metric | Result |
+|---|---:|
+| High-Risk Customers | **1,327** |
+| Predicted Churn Customers | **1,769** |
+| Average Churn Probability | **57.19%** |
+| Highest Example Churn Probability | **95.87%** |
+
+### Business Insights
+
+- Identifies customers with elevated predicted churn risk for proactive retention.
+- Uses **SHAP values** to explain the key factors contributing to individual churn predictions.
+- Converts model predictions into **Critical, High, Medium, and Low retention priorities**.
+- Generates customer-specific retention strategies using an **LLM**.
+- Enables business users to investigate individual customers through **Power BI drill-through analysis**.
+
 ## 🏗️ System Architecture
 
 ```text
