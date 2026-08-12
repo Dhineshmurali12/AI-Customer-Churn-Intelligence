@@ -59,7 +59,10 @@ LLM Retention Recommendations
       │
       ▼
 Power BI Dashboard
+```
+
 ---
+
 ## 📊 Power BI Dashboard
 
 ### Executive Overview
@@ -79,6 +82,7 @@ This dashboard combines ML churn predictions, customer risk classification, chur
 Customer-level analysis enables drill-through investigation of individual customers, their churn probability, risk category, behavioral factors, and retention priority.
 
 ![Customer Intelligence Detail](dashboard_images/03_customer_intelligence_detail.png)
+
 ---
 
 ## 📄 Project Report
